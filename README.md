@@ -70,6 +70,5 @@
 
  ## ⚡ GitHub Activity Graph
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshTiwari3&theme=tokyonight" />
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshTiwari3&theme=github" />
 

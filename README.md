@@ -41,3 +41,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
 </div>
+
+
+## 🌐 Connect with me
+
+<div align="left">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/adarsh-tiwari-b29209160/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <img width="12" />
+ 
+  <img width="12" />
+  <a href="[https://github.com/your-username](https://github.com/AdarshTiwari3)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub Profile" />
+  </a>
+   <img width="12" />
+  <a href="https:leetcode.com/u/iAdarsh03/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" title="LeetCode Profile" />
+  </a>
+ 
+</div>
+

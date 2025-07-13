@@ -4,4 +4,6 @@
  </h2>
 
 ## 🏆 GitHub Trophies 
-![](https://github.com/AdarshTiwari3?tab=achievements)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdarshTiwari3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+

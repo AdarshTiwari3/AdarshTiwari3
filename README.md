@@ -2,3 +2,6 @@
 
 <h2 align="center"> I'm a passionate <b>Full Stack Developer</b> who enjoys building efficient, scalable, and user-focused web applications. 
  </h2>
+
+## 🏆 GitHub Trophies 
+![](https://github.com/AdarshTiwari3?tab=achievements))

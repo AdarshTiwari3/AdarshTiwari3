@@ -4,4 +4,4 @@
  </h2>
 
 ## 🏆 GitHub Trophies 
-![](https://github.com/AdarshTiwari3?tab=achievements))
+![](https://github.com/AdarshTiwari3?tab=achievements)

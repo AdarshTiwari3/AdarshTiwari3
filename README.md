@@ -68,5 +68,8 @@
 | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdarshTiwari3&theme=tokyonight&hide_border=false)  
 | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshTiwari3&theme=tokyonight" height="180em" /> | <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshTiwari3&layout=compact&theme=tokyonight" alt="Top Languages" /> |
 
- 
+ ## ⚡ GitHub Activity Graph
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshTiwari3&theme=tokyonight" />
+
 

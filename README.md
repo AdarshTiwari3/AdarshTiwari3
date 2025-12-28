@@ -2,17 +2,30 @@
 
 <h2 align="center"> I'm a passionate <b>Full Stack Developer</b> who enjoys building efficient, scalable, and user-focused web applications. 
  </h2>
- <li>Checkout my Top GitHub repositories on <a href = "https://github.com/AdarshTiwari3/system-design">System Design</a>, <a href = "https://github.com/AdarshTiwari3/DSA-In-Python">DSA In Python</a> and <a href = "https://github.com/AdarshTiwari3/Flask-API-Learning">Flask API Learning</a>.</li>
- 
+
  <!-- Profile Views Counter -->
- <br/>  <!-- This adds two blank lines above -->
+
+<br/> <!-- This adds two blank lines above -->
 &nbsp;![](https://komarev.com/ghpvc/?username=AdarshTiwari3&color=brightgreen)
 
-## 🏆 GitHub Trophies 
+---
+
+## ⭐ Top Repositories
+
+| Repo | Focus Area | Description |
+|------|------------|-------------|
+| [System Design](https://github.com/AdarshTiwari3/system-design) | System Design | LLD/HLD, design patterns, scalable systems |
+| [DSA in Python](https://github.com/AdarshTiwari3/DSA-In-Python) | DSA | Algorithms, data structures, optimization |
+| [Flask API Learning](https://github.com/AdarshTiwari3/Flask-API-Learning) | Backend | REST APIs, Flask backend, clean architecture |
+| [Sigma Frontend Universe](https://github.com/AdarshTiwari3/sigma-frontend-universe) | Frontend | Modern frontend development, UI components, hands-on practice |
+| [FastAPI & React Dev](https://github.com/AdarshTiwari3/fastapi_and_react_dev) | Full Stack | FastAPI backend, React frontend, JWT auth, Docker, PostgreSQL |
+
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdarshTiwari3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🦾 Skills
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML" />
   <img width="12" />
@@ -47,8 +60,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
 </div>
 
-
 ## 🌐 Connect with me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/adarsh-tiwari-b29209160/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" />
@@ -67,13 +80,13 @@
 
 ## 📊 GitHub Stats
 
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshTiwari3&theme=tokyonight" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshTiwari3&theme=tokyonight" height="180em" /> |
-|:---:|:---:|
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshTiwari3&theme=tokyonight" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdarshTiwari3&theme=tokyonight" height="180em" /> |
+|       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshTiwari3&theme=tokyonight" height="180em" />        | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshTiwari3&theme=tokyonight" height="180em" /> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshTiwari3&theme=tokyonight" height="180em" /> |   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdarshTiwari3&theme=tokyonight" height="180em" />    |
+
 | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdarshTiwari3&theme=tokyonight&hide_border=false)  
 | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshTiwari3&theme=tokyonight" height="180em" /> | <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshTiwari3&layout=compact&theme=tokyonight" alt="Top Languages" /> |
 
- ## ⚡ GitHub Activity Graph
+## ⚡ GitHub Activity Graph
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshTiwari3&theme=github" />
-

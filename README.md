@@ -12,13 +12,13 @@
 
 ### ⭐ Top Repositories
 
-| Repo                                                                                   | Description                                  |
-| -------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------- |
-| [System Design](https://github.com/AdarshTiwari3/system-design)                        | LLD/HLD, design patterns, scalable systems   |
-| [DSA in Python](https://github.com/AdarshTiwari3/DSA-In-Python)                        | Algorithms, data structures, optimization    |
-| [Flask API Learning](https://github.com/AdarshTiwari3/Flask-API-Learning)              | REST APIs, Flask backend, clean architecture |
-| 🔗 [Sigma Frontend Universe](https://github.com/AdarshTiwari3/sigma-frontend-universe) | Frontend                                     | Modern frontend development, UI components, hands-on practice |
-| 🔗 [FastAPI & React Dev](https://github.com/AdarshTiwari3/fastapi_and_react_dev)       | Full Stack                                   | FastAPI backend, React frontend, JWT auth, Docker, PostgreSQL |
+| Repo | Focus Area | Description |
+|------|------------|-------------|
+| [System Design](https://github.com/AdarshTiwari3/system-design) | System Design | LLD/HLD, design patterns, scalable systems |
+| [DSA in Python](https://github.com/AdarshTiwari3/DSA-In-Python) | DSA | Algorithms, data structures, optimization |
+| [Flask API Learning](https://github.com/AdarshTiwari3/Flask-API-Learning) | Backend | REST APIs, Flask backend, clean architecture |
+| [Sigma Frontend Universe](https://github.com/AdarshTiwari3/sigma-frontend-universe) | Frontend | Modern frontend development, UI components, hands-on practice |
+| [FastAPI & React Dev](https://github.com/AdarshTiwari3/fastapi_and_react_dev) | Full Stack | FastAPI backend, React frontend, JWT auth, Docker, PostgreSQL |
 
 ## 🏆 GitHub Trophies
 

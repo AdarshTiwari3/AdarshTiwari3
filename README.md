@@ -10,7 +10,7 @@
 
 ---
 
-### ⭐ Top Repositories
+## ⭐ Top Repositories
 
 | Repo | Focus Area | Description |
 |------|------------|-------------|

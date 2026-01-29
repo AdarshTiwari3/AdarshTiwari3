@@ -23,6 +23,7 @@
 | [Flask API Learning](https://github.com/AdarshTiwari3/Flask-API-Learning) | Backend | REST APIs, Flask backend, clean architecture |
 | [Sigma Frontend Universe](https://github.com/AdarshTiwari3/sigma-frontend-universe) | Frontend | Modern frontend development, UI components, hands-on practice |
 | [FastAPI & React Dev](https://github.com/AdarshTiwari3/fastapi_and_react_dev) | Full Stack | FastAPI backend, React frontend, JWT auth, Docker, PostgreSQL |
+| [AI Engineering Hub](https://github.com/AdarshTiwari3/ai-engineering-hub) | AI Engineering | LLMs, LangChain, RAG, agents, embeddings, system-level AI experiments |
 
 ---
 
